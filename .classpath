@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/root/Desktop/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/root/Desktop/BI2/Esper/esper-4.9.0/esper/lib/antlr-runtime-3.2.jar"/>
+	<classpathentry kind="lib" path="/root/Desktop/BI2/Esper/esper-4.9.0/esper/lib/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="/root/Desktop/BI2/Esper/esper-4.9.0/esper/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/root/Desktop/BI2/Esper/esper-4.9.0/esper/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/root/Desktop/BI2/Esper/esper-4.9.0/esper-4.9.0.jar"/>
+	<classpathentry kind="lib" path="/root/Desktop/BI2/Esper/esper-4.9.0/esperio-amqp-4.9.0.jar"/>
+	<classpathentry kind="lib" path="/root/Desktop/BI2/Esper/esper-4.9.0/esperio-csv-4.9.0.jar"/>
+	<classpathentry kind="lib" path="/root/Desktop/BI2/Esper/esper-4.9.0/esperio-db-4.9.0.jar"/>
+	<classpathentry kind="lib" path="/root/Desktop/BI2/Esper/esper-4.9.0/esperio-http-4.9.0.jar"/>
+	<classpathentry kind="lib" path="/root/Desktop/BI2/Esper/esper-4.9.0/esperio-socket-4.9.0.jar"/>
+	<classpathentry kind="lib" path="/root/Desktop/BI2/Esper/esper-4.9.0/esperio-springjms-4.9.0.jar"/>
+	<classpathentry kind="lib" path="/root/Desktop/BI2/Esper/esper-4.9.0/esperio-stax-4.9.0.jar"/>
+	<classpathentry kind="lib" path="/root/Desktop/BI2/Esper/other_jars/joda-time-2.3/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="/root/Desktop/BI2/Esper/other_jars/antlr-3.4-complete-no-antlrv2.jar"/>
+	<classpathentry kind="lib" path="/root/Desktop/BI2/Esper/other_jars/cglib-full-2.0.2.jar"/>
+	<classpathentry kind="lib" path="/root/Desktop/BI2/Esper/other_jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
